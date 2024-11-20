@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dbf164ea-0a85-4c95-9e80-3fe5255cf434" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PARTE2STREAM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/filter/Filter1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/filter/Filter2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/Map1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/Map2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/map/Taxista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorted/Sorted1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sorted/Sorted2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2p85S70uFeEWz2tP7ff2PVYQZoo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Filter1.executor": "Run",
+    "Application.Filter2.executor": "Run",
+    "Application.Map1.executor": "Run",
+    "Application.Map2.executor": "Run",
+    "Application.Sorted1.executor": "Run",
+    "Application.Sorted2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Distinct1">
+    <configuration name="Distinct1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="distinct.Distinct1" />
+      <module name="PARTE2STREAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="distinct.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Map1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.Map1" />
+      <module name="PARTE2STREAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Map2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="map.Map2" />
+      <module name="PARTE2STREAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sorted1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorted.Sorted1" />
+      <module name="PARTE2STREAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorted.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sorted2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sorted.Sorted2" />
+      <module name="PARTE2STREAM" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sorted.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Distinct1" />
+        <item itemvalue="Application.Sorted2" />
+        <item itemvalue="Application.Sorted1" />
+        <item itemvalue="Application.Map2" />
+        <item itemvalue="Application.Map1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dbf164ea-0a85-4c95-9e80-3fe5255cf434" name="Changes" comment="" />
+      <created>1732134861619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732134861619</updated>
+    </task>
+    <servers />
+  </component>
+</project>
